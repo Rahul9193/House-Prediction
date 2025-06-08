@@ -20,6 +20,6 @@ This project demonstrates how to use a simple Linear Regression model to predict
 
 ## 🚀 How to Run
 
-1. Clone the repository : https://github.com/Rahul9193/House-Prediction.git
+1. Clone the repository : https://github.com/Rahul9193/SCT_ML_1.git
 2.  Install dependencies: pip install -r requirements.txt
 3.  Run the notebook
